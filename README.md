@@ -1,4 +1,4 @@
-# EFI for OpenCore-debugging
+# EFI for OpenCore Debugging
 
 The following repository will be used for debugging purposes, providing lots of functionalities such as:
 
