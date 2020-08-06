@@ -1,3 +1,5 @@
+With the help of [@dreamwhite](https://github.com/dreamwhite) we thought that it would be useful to have a generic EFI with just the minumum requirements needed to obtain the most debugging logs from most motherboards as possible. Here we provide both the .zip file which can be extracted and copied to an ESP partition on a thumb drive, as well as the possibility to expore the files 
+
 # EFI for OpenCore Debugging
 
 The following repository will be used for debugging purposes, providing lots of functionalities such as:
@@ -12,5 +14,7 @@ The following repository will be used for debugging purposes, providing lots of 
 # Credits:
 
 -Acidanthera team, Download-Fritz and vit9696 in particular
--Dreamwhite
--a23ss4ndro
+-datastone for the modifiedgrubshell tool
+-khronokernel and dortania for their guides
+-dreamwhite for his costant commitment 
+-a23ss4ndro for some random fixes
