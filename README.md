@@ -13,8 +13,8 @@ The following repository will be used for debugging purposes, providing lots of 
 
 # Credits:
 
--Acidanthera team, Download-Fritz and vit9696 in particular
--datastone for the modifiedgrubshell tool
--khronokernel and dortania for their guides
--dreamwhite for his costant commitment 
--a23ss4ndro for some random fixes
+- Acidanthera team, Download-Fritz and vit9696 in particular
+- datastone for the modifiedgrubshell tool
+- khronokernel and dortania for their guides
+- dreamwhite for his costant commitment 
+- a23ss4ndro for some random fixes
