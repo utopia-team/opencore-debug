@@ -7,6 +7,9 @@ The following repository will be used for debugging purposes, providing lots of 
 - Checking MAT (Memory Attributes Table) support with OpenRuntime though OpenCore log
 - Checking the need of slide values or the necessity of the "ProvideCustomSlide" quirk (found on OpenCore log) or though the MmapDump.efi tool
 - Checking if CFG-Lock MSR0xE2 register is unlocked though OpenCore log or VerifyMSRE2.efi tool.
+- Original OpenCore EFI Shell (bundled with OC, also known as OpenShell.efi)
+- Custom grub shell to use when setup_var is needed to change hidden bios options
+- RtcRw.efi tool to dump the RTC memory regions
 - Dumping ACPI tables (DSDT, SSDTs) and SMBIOS with SysReport set to True.
 
 - Even more which I forgot to mention
