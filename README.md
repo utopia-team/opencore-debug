@@ -7,7 +7,7 @@ The following repository will be used for debugging purposes, providing lots of 
 - Checking if CFG-Lock MSR0xE2 register is unlocked though OpenCore log or VerifyMSRE2.efi tool.
 - Dumping ACPI tables (DSDT, SSDTs) and SMBIOS with SysReport set to True.
 
--Even more which I forgot to mention
+- Even more which I forgot to mention
 
 # Credits:
 
