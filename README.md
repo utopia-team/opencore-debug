@@ -1,3 +1,5 @@
+# What is this?
+
 With the help of [@dreamwhite](https://github.com/dreamwhite) we thought that it would be useful to have a generic EFI with just the minumum requirements needed to obtain the most debugging logs from most motherboards as possible. Here we provide both the .zip file which can be extracted and copied to an ESP partition on a thumb drive, as well as the possibility to explore the files 
 
 # EFI for OpenCore Debugging
