@@ -19,7 +19,7 @@ The following repository will be used for debugging purposes, providing lots of 
 
 # Credits:
 
-- [Acidanthera](https://github.com/acidanthera) team, [mhauser](https://github.com/mhauser) and [vit9696](https://github.com/vit9696) in particular
+- [Acidanthera](https://github.com/acidanthera) team, [mhaeuser](https://github.com/mhaeuser) and [vit9696](https://github.com/vit9696) in particular
 - [datastone](https://github.com/datastone) for the modifiedgrubshell tool
 - [khronokernel](https://github.com/khronokernel) and dortania for their guides
 - [dreamwhite](https://github.com/dreamwhite) for his costant commitment 
