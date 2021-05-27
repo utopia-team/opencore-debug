@@ -24,3 +24,7 @@ The following repository will be used for debugging purposes, providing lots of 
 - [khronokernel](https://github.com/khronokernel) and dortania for their guides
 - [dreamwhite](https://github.com/dreamwhite) for his costant commitment 
 - [a23ss4ndro](https://github.com/1alessandro1) for some random fixes
+
+# P.S.
+
+Dear clowns at [HackintoshLifeIT](https://github.com/hackintoshlifeit), instead of stealing other's work, why don't you try linking this repo and giving credits where it's due?
